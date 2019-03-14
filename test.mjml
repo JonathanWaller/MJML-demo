@@ -1,9 +1,110 @@
-<mjml>
+<!-- <mjml>
+
     <mj-body>
-    <mj-section>
-    <mj-column>
-    <mj-text>Helloooooo</mj-text>
-    </mj-column>
-    </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text>Helloooooo</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text>Hello agin</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text>Howdy dudes</mj-text>
+            </mj-column>
+        </mj-section>
     </mj-body>
+</mjml> -->
+
+<!-- <mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text>Hello World!</mj-text>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-chart chs="700x200" cht="lc" chd="s:cEAELFJHHHKUju9uuXUc" chco="76A4FB" chls="2.0,0.0,0.0" chxt="x,y" chxl="0:|0|1|2|3|4|5|1:|0|50|100" chg="20,50"></mj-chart>
+      </mj-column>
+    </mj-section>
+  </mj-body> -->
+  
+<!-- <mjml>
+  <mj-body>
+    <mj-container>
+      <mj-section>
+      <mj-column>
+      <mj-text>nope</mj-text>
+      </mj-column>
+        <mj-column>
+          <mj-chart chs="700x200" chd="s:theresadifferencebetweenknowingthepathandwalkingthepath" cht="bvs" chxt="y" chf="b0,lg,90,4CA4F5,0.1,C371D3,0.8,EA469E,1" />
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml> -->
+
+<!-- <mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text>Hello World!</mj-text>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-chart chs="700x200" cht="lc" chd="s:cEAELFJHHHKUju9uuXUc" chco="76A4FB" chls="2.0,0.0,0.0" chxt="x,y" chxl="0:|0|1|2|3|4|5|1:|0|50|100" chg="20,50"></mj-chart>
+      </mj-column>
+    </mj-section>
+  </mj-body> -->
+
+
+<!-- <mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text>Hello World!</mj-text>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-chart chs="700x200" cht="lc" chd="s:cEAELFJHHHKUju9uuXUc" chco="76A4FB" chls="2.0,0.0,0.0" chxt="x,y" chxl="0:|0|1|2|3|4|5|1:|0|50|100" chg="20,50"></mj-chart>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml> -->
+
+
+<!-- <mjml>
+  <mj-body>
+    <mj-wrapper border="1px solid #000000" padding="50px 30px">
+      <mj-section border-top="1px solid #aaaaaa" border-left="1px solid #aaaaaa" border-right="1px solid #aaaaaa" padding="20px">
+        <mj-column>
+          <mj-image padding="0" src="https://placeholdit.imgix.net/~text?&w=350&h=150" />
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #aaaaaa" border-right="1px solid #aaaaaa" padding="20px" border-bottom="1px solid #aaaaaa">
+        <mj-column border="1px solid #dddddd">
+          <mj-text padding="20px"> First line of text </mj-text>
+          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" padding="0 20px" />
+          <mj-text padding="20px"> Second line of text </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml> -->
+
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text>Testing charts</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-chart chs="320x200" chd="t:7,14,25,51,36,49,61,74,78,89" cht="bvs" chxt="y" />
+      </mj-column>
+      <mj-column>
+        <mj-image src='https://image-charts.com/chart?chd=t:7,14,25,51,36,49,61,74,78,89&chs=320x200&cht=bvs&chxt=y'/>
+      </mj-column>
+      <mj-column>
+        <mj-image src='https://image-charts.com/chart?chd=t:3,2,5,3,4&chs=320x200&cht=bvs&chxt=y'/>
+      </mj-column>
+    </mj-section>
+  </mj-body>
 </mjml>
